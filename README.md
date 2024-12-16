@@ -14,14 +14,15 @@
 
 - 💬 Ask me about **React, Tailwind**
 
-- 📫 How to reach me **ujjawalg047@gmail.com**
+- 📫 How to reach me **dev.ujjawal.gupta@gmail.com**
 
 - ⚡ Fun fact **😅 I sometimes forget semicolons in C++... JavaScript has spoiled me with its chill vibes! 🚀✨**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://instagram.com/ujjawal_62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjawal_62" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjawal-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawal-gupta" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ujjawal-gupta-b713333402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ujjawal Gupta" height="40" width="40" /></a>
+<a href="https://instagram.com/ujjawal_62" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ujjawal_62" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/ujjawal-gupta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="ujjawal-gupta" height="40" width="40" /></a>
 </p>
 
 <h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="28" align=left>&nbsp; Languages and Tools:</h2>
