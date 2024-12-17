@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Tailwind**
 
-- 📫 How to reach me **dev.ujjawal.gupta@gmail.com**
+- 📫 How to reach me **[LinkedIn](www.linkedin.com/in/ujjawal-gupta-b713333402)**
 
 - ⚡ Fun fact **😅 I sometimes forget semicolons in C++... JavaScript has spoiled me with its chill vibes! 🚀✨**
 
@@ -67,8 +67,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawal-gupta-coder&show_icons=true&locale=en&theme=dark" alt="ujjawal-gupta-coder" width="400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal-gupta-coder&theme=dark" alt="ujjawal-gupta-coder" width="490" /></p>
-
-##
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile+%F0%9F%98%8A%F0%9F%99%8F;let%E2%80%99s+stay+in+touch+and+innovate!++%F0%9F%9A%80" width="70%">
