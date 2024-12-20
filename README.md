@@ -14,13 +14,13 @@
 
 - 💬 Ask me about **React, Tailwind**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ujjawal-gupta-b71333340)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ujjawal-gupta-dev)**
 
 - ⚡ Fun fact **😅 I sometimes forget semicolons in C++... JavaScript has spoiled me with its chill vibes! 🚀✨**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/ujjawal-gupta-b71333340" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ujjawal Gupta" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ujjawal-gupta-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ujjawal Gupta" height="40" width="40" /></a>
 <a href="https://instagram.com/ujjawal_62" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ujjawal_62" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/ujjawal-gupta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="ujjawal-gupta" height="40" width="40" /></a>
 </p>
