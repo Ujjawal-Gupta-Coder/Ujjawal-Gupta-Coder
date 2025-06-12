@@ -8,21 +8,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawal-gupta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawal-gupta-coder" /> </p>
 <h2 align="left"> About Me </h2>
 
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m currently working on **Backend Development**
+  
+- 💬 Ask me about **Node.js, React, Tailwind**
 
-- 🌱 I’m currently learning **Backend, Node.js**
+- 📫 How to reach me **[dev.ujjawal.gupta@gmail.com](mailto:dev.ujjawal.gupta@gmail.com)**
 
-- 💬 Ask me about **React, Tailwind**
+- 🌍 Know more about me **[My Portfolio Website](https://ujjawal-gupta-coder.github.io/My-Portfolio/)**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ujjawal-gupta-dev)**
+- 🔗 Lets Connect and grow together **[LinkedIn](https://www.linkedin.com/in/ujjawal-gupta-dev)**
 
-- ⚡ Fun fact **😅 I sometimes forget semicolons in C++... JavaScript has spoiled me with its chill vibes! 🚀✨**
+- ⚡ Fun fact **🐞 I once debugged a piece of code for hours, only to realize the real bug was a missing semicolon 😅. Since then, I treat semicolons with more respect than most people! 😉;**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/ujjawal-gupta-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ujjawal Gupta" height="40" width="40" /></a>
-<a href="https://instagram.com/ujjawal_62" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ujjawal_62" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/ujjawal-gupta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="ujjawal-gupta" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ujjawal-gupta-dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ujjawal Gupta" height="40" width="40" /></a>
+<a href="https://x.com/Ujjawal_Codes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ujjawal_Codes" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/ujjawal-gupta" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="ujjawal-gupta" height="40" width="40" /></a>
 </p>
 
 <h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="28" align=left>&nbsp; Languages and Tools:</h2>
@@ -49,6 +51,8 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mongodb logo"  />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -56,6 +60,10 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="vscode logo"  />
     <img width="12" />
  </div>
 
