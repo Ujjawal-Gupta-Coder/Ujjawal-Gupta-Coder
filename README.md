@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=25F732&center=true&vCenter=true&width=560&lines=Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Engineer+%F0%9F%92%BB;AI-Powered+Web+Apps+Enthusiast+%F0%9F%A4%96;Currently+Debugging+Life+%F0%9F%90%9B;Open+to+Full-Time+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=25F732&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ex-Frontend+Intern+@+TickYourList+%F0%9F%92%BB;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;Currently+Debugging+Life+%F0%9F%90%9B;Open+to+Full-Time+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,11 +35,11 @@ const ujjawal = {
     "Tailwind CSS",
   ],
 
-  internship: "Ex-Frontend Developer Intern @ TickYourList",
+  internship: "Ex-Frontend Intern @ TickYourList",
 
   currentlyBuilding: "HireLoop - AI Interview Preparation Platform",
 
-  codingProblem: "Solved 550+ Problems (LeetCode + GeeksforGeeks)",
+  problemSolving: "Solved 550+ Problems (LeetCode + GeeksforGeeks)",
 
   currentFocus: [
     "Building production-ready applications",
@@ -154,10 +154,12 @@ https://github.com/ujjawal-gupta-coder
 
 <br />
 
-## 🔥 Streak Stats
+## 💭 A Thought That Inspired Me
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal-gupta-coder&theme=dark" width="65%" />
+
+> *"The best developers aren't those who make fewer mistakes - they're the ones who learn faster from them."*
+
 </div>
 
 <br />
