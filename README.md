@@ -14,7 +14,9 @@
 
 <p align="center"><i> 🚀 Building things. Breaking things. Fixing things. Repeating.</i></p>
 
-<br />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
 ## 🙋 About Me
 
@@ -61,6 +63,32 @@ const ujjawal = {
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,cpp,react,nextjs,tailwind,nodejs,express,mongodb,api,jwt,authjs,socketio,gemini,mysql,git,github,postman,vercel,vscode,vite,render,shadcn,zustand,sanity,chartjs&perline=7" />
   
 </p>
+
+<br />
+
+## 🛣️ My Journey
+
+```mermaid
+timeline
+    title 🎯 My Career Timeline
+
+    2020 : 🎓 Secondary Education
+
+    2022 : 🎓 Higher Secondary Education
+
+    2023 : 🎓 Started Bachelor of Computer Applications (BCA)
+
+    2025 : 🐍 Python Programming Training
+     : 💼 6-Month Frontend Internship @ TickYourList
+     : 💬 ChatSphere Project
+
+    2026 : 🎓 Graduated BCA
+         :  🚀 IdeaLink Project
+         : 🎓 Started Master of Computer Applications (MCA)
+           
+    Future : 🤖 Building HireLoop Project
+           : 🎯 Software Engineer
+```
 
 <br />
 
@@ -192,3 +220,5 @@ https://github.com/ujjawal-gupta-coder
 </p>
 
 <h3 align="center">If my code made your day a little better, a star ⭐ would make mine.</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
