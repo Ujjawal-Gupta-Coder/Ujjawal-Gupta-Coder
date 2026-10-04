@@ -32,6 +32,7 @@ const ujjawal = {
     "Node.js",
     "Express.js",
     "MongoDB",
+    "PostgreSQL",
     "JavaScript",
     "TypeScript",
     "Tailwind CSS",
@@ -39,7 +40,7 @@ const ujjawal = {
 
   internship: "Ex-Frontend Intern @ TickYourList",
 
-  currentlyBuilding: "HireLoop - AI Interview Preparation Platform",
+  featuredProject: "HireLoop - AI-Powered Voice Interview Platform with AI-Powered Analytics",
 
   problemSolving: "Solved 550+ Problems (LeetCode + GeeksforGeeks)",
 
@@ -60,7 +61,7 @@ const ujjawal = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,cpp,react,nextjs,tailwind,nodejs,express,mongodb,api,jwt,authjs,socketio,gemini,mysql,git,github,postman,vercel,vscode,vite,render,shadcn,zustand,sanity,chartjs&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,prisma,api,jwt,authjs,socketio,gemini,git,github,vscode,postman,vite,vercel,supabase,stripe,shadcn,zustand,sanity,chartjs&perline=6" />
   
 </p>
 
@@ -85,9 +86,10 @@ timeline
     2026 : 🎓 Graduated BCA
          :  🚀 IdeaLink Project
          : 🎓 Started Master of Computer Applications (MCA)
-           
-    Future : 🤖 Building HireLoop Project
-           : 🎯 Software Engineer
+
+    Mid 2026 :  🤖 HireLoop Project
+
+    Future : 🎯 Software Engineer        
 ```
 
 <br />
@@ -100,18 +102,19 @@ timeline
 <td width="50%" valign="top">
 
 ### 🤖 HireLoop  
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat"/> <a href="https://github.com/Ujjawal-Gupta-Coder/HireLoop"><img src="https://img.shields.io/badge/Source_Code-1a1011?logo=github"></a>
+<a href="https://hireloop-ai.vercel.app/"><img src="https://img.shields.io/badge/Live_Preview-00C853?logo=rocket&logoColor=white"></a> <a href="https://github.com/Ujjawal-Gupta-Coder/HireLoop"><img src="https://img.shields.io/badge/Source_Code-1a1011?logo=github"></a> <a href="https://youtu.be/OJcXNXraMgA"><img src="https://img.shields.io/badge/Youtube_Demo-f0021a?logo=youtube"></a> 
 
-AI-powered interview preparation platform built to simulate real technical interviews.
+AI-powered voice interview preparation platform with detailed analytics and a credit-based payment system.
 
 **Highlights**
-- 🎙️ AI voice interviews with a live coding environment
-- 📄 Resume-based personalized interview questions
-- 📊 AI feedback with downloadable PDF reports
-- 💳 Credit system with secure payment integration
+
+- 🎙️ AI-powered voice interviews with natural conversation
+- 🔄 Resume interrupted interviews from the exact point
+- 📊 Detailed AI analytics with downloadable performance reports
+- 💳 Credit-based payments with Stripe integration
 
 **Tech**
-`Next.js` `TypeScript` `Monaco Editor` `Groq/Gemini API`
+`Next.js` `Gemini API` `Web Speech API` `PostgreSQL` `Supabase` `Stripe`
 
 </td>
 
@@ -174,11 +177,21 @@ https://github.com/ujjawal-gupta-coder
 </tr>
 </table>
 
-## 📈 Contribution Graph
+## 📈 Github Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal-gupta-coder&theme=react-dark&hide_border=true&area=true" width="90%" />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjawal-gupta-coder&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=ujjawal-gupta-coder&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+  
+
 
 <br />
 
